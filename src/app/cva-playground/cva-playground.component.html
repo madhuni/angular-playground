@@ -1,0 +1,13 @@
+<form (ngSubmit)="save(sampleForm)" [formGroup]="sampleForm">
+
+  <h1 style="text-decoration: underline">Changes for the 'location' FormControl</h1>
+  <h2>Value: {{ f.location.value }}</h2>
+  <h2>Touched: {{ f.location.touched }}</h2>
+  <h2>Dirty: {{ f.location.dirty }}</h2>
+  <h2>Valid: {{ f.location.valid }}</h2>
+
+  <input type="text" formControlName="name" placeholder="Enter name...">
+  <input type="email" formControlName="email" placeholder="Enter email...">
+  <app-dropdown-filter [options]="cities" formControlName="location" placeholder="Select location..."></app-dropdown-filter>
+  <button type="submit">Submit</button>
+</form>
