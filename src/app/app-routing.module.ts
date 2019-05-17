@@ -6,6 +6,10 @@ const routes: Routes = [
   {
     path: '',
     loadChildren: './cva-playground/cva-playground.module#CvaPlaygroundModule'
+  },
+  {
+    path: 'tables',
+    loadChildren: './table-playground/table-playground.module#TablePlaygroundModule'
   }
 ];
 
