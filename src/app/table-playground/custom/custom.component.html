@@ -1,0 +1,102 @@
+<h3 class="first">Prime NG Table</h3>
+
+<div class="w3-padding-large w3-light-grey">
+  <table class="w3-table w3-bordered w3-white w3-round-large">
+    <thead>
+      <tr>
+        <th *ngFor="let col of cols | tableheaders" [attr.colspan]="col.type == 'supercolumn' ? col.no_of_subcols : 1"
+          [attr.rowspan]="col.type == 'supercolumn' ? 1 : 2" (click)="sortData(col)"
+          [ngClass]="{'sortable-header': col.sortable}" class="w3-center header">
+          {{col.header}} &nbsp;
+          <fa-icon [icon]="['fas', 'sort']" class="w3-text-grey" *ngIf="col.sortable && col.sortmode == null"></fa-icon>
+          <fa-icon [icon]="['fas', 'sort-up']" class="w3-text-grey" *ngIf="col.sortable && col.sortmode == 'asc'">
+          </fa-icon>
+          <fa-icon [icon]="['fas', 'sort-down']" class="w3-text-grey" *ngIf="col.sortable && col.sortmode == 'desc'">
+          </fa-icon>
+        </th>
+      </tr>
+      <tr>
+        <th *ngFor="let col of cols | tablesubheaders" (click)="sortData(col)"
+          [ngClass]="{'sortable-header': col.sortable}" class="w3-center header">
+          {{col.header}} &nbsp;
+          <fa-icon [icon]="['fas', 'sort']" class="w3-text-grey" *ngIf="col.sortable && col.sortmode == null"></fa-icon>
+          <fa-icon [icon]="['fas', 'sort-up']" class="w3-text-grey" *ngIf="col.sortable && col.sortmode == 'asc'">
+          </fa-icon>
+          <fa-icon [icon]="['fas', 'sort-down']" class="w3-text-grey" *ngIf="col.sortable && col.sortmode == 'desc'">
+          </fa-icon>
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let rowData of tabledata">
+        <td *ngFor="let col of cols | tabledatacolumns" class="datacell">
+          <div *ngIf="col.header == 'Top 3 Applications' || col.header == 'Top 3 URLs';else normalcoltemplate">
+            <div *ngFor="let item of rowData[col.field]">
+              <span>{{item.name}}</span> &nbsp;
+              <span class="metadata">{{item.duration}}</span>
+            </div>
+          </div>
+          <ng-template #normalcoltemplate>
+            <div *ngIf="col.type != 'subcolumn';else subcolumntemplate">
+              {{rowData[col.field]}}
+            </div>
+            <ng-template #subcolumntemplate>
+              <div [ngClass]="{'metadata': col.field == 'per_day'}">
+                {{rowData[col.superfield][col.field]}}
+              </div>
+            </ng-template>
+          </ng-template>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+
+<!-- <p-table [columns]="cols" [value]="tabledata" class="w3-table w3-bordered w3-white">
+  <ng-template pTemplate="header" let-columns>
+    <tr>
+      <th *ngFor="let col of columns | tableheaders" [attr.colspan]="col.type == 'supercolumn' ? col.no_of_subcols : 1"
+        [attr.rowspan]="col.type == 'supercolumn' ? 1 : 2" (click)="sortData(col)"
+        [ngClass]="{'sortable-header': col.sortable}" class="w3-center">
+        {{col.header}} &nbsp;
+        <fa-icon [icon]="['fas', 'sort']" class="w3-text-grey" *ngIf="col.sortable && col.sortmode == null"></fa-icon>
+        <fa-icon [icon]="['fas', 'sort-up']" class="w3-text-grey" *ngIf="col.sortable && col.sortmode == 'asc'">
+        </fa-icon>
+        <fa-icon [icon]="['fas', 'sort-down']" class="w3-text-grey" *ngIf="col.sortable && col.sortmode == 'desc'">
+        </fa-icon>
+      </th>
+    </tr>
+    <tr>
+      <th *ngFor="let col of columns | tablesubheaders" (click)="sortData(col)"
+        [ngClass]="{'sortable-header': col.sortable}" class="w3-center">
+        {{col.header}} &nbsp;
+        <fa-icon [icon]="['fas', 'sort']" class="w3-text-grey" *ngIf="col.sortable && col.sortmode == null"></fa-icon>
+        <fa-icon [icon]="['fas', 'sort-up']" class="w3-text-grey" *ngIf="col.sortable && col.sortmode == 'asc'">
+        </fa-icon>
+        <fa-icon [icon]="['fas', 'sort-down']" class="w3-text-grey" *ngIf="col.sortable && col.sortmode == 'desc'">
+        </fa-icon>
+      </th>
+    </tr>
+  </ng-template>
+  <ng-template pTemplate="body" let-rowData let-columns="columns">
+    <tr>
+      <td *ngFor="let col of columns | tabledatacolumns">
+        <div *ngIf="col.header == 'Top 3 Applications' || col.header == 'Top 3 URLs';else normalcoltemplate">
+          <div *ngFor="let item of rowData[col.field]">
+            <span>{{item.name}}</span> &nbsp;
+            <span>{{item.duration}}</span>
+          </div>
+        </div>
+        <ng-template #normalcoltemplate>
+          <div *ngIf="col.type != 'subcolumn';else subcolumntemplate">
+            {{rowData[col.field]}}
+          </div>
+          <ng-template #subcolumntemplate>
+            {{rowData[col.superfield][col.field]}}
+          </ng-template>
+        </ng-template>
+      </td>
+    </tr>
+  </ng-template>
+</p-table> -->
