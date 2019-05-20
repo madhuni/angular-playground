@@ -1,0 +1,17 @@
+.sortable-header {
+    cursor: pointer;
+}
+
+.header {
+    color: #8F95A7;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+
+.datacell {
+    color: #4A4C56;
+}
+
+.metadata {
+    color: #8F95A7;
+}

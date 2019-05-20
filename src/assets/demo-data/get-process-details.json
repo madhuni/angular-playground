@@ -1,0 +1,1657 @@
+{
+    "upshots_data": {
+        "process_found": 72,
+        "total_transactions": 1021,
+        "total_time": 139
+    },
+    "data": [
+        {
+            "top_applications": [
+                {
+                    "name": "ASAP",
+                    "duration": "17m 3s"
+                },
+                {
+                    "name": "Microsoft Outlook",
+                    "duration": "15m 11s"
+                },
+                {
+                    "name": "Microsoft Excel",
+                    "duration": "4m 22s"
+                }
+            ],
+            "top_urls": [
+                {
+                    "name": "msa2.partneronline.com",
+                    "duration": "2m 18s"
+                },
+                {
+                    "name": "app.powerbi.com",
+                    "duration": "1m 20s"
+                },
+                {
+                    "name": "logistics.onenetwork.com",
+                    "duration": "52s"
+                }
+            ],
+            "aht": "30m 5s",
+            "automatability": 0.56,
+            "automatability_upper": 60,
+            "automatability_lower": 40,
+            "users": 26,
+            "process_name": "Change standard order",
+            "transactions": {
+                "total": 1473,
+                "per_day": 11.1
+            }
+        },
+        {
+            "transactions": {
+                "total": 1237,
+                "per_day": 2.6
+            },
+            "aht": "28m 7s",
+            "automatability": 0.56,
+            "automatability_upper": 60,
+            "automatability_lower": 40,
+            "users": 22,
+            "process_name": "Cut report process",
+            "top_urls": [
+                {
+                    "name": "vendorcentral.com",
+                    "duration": "12m 8s"
+                },
+                {
+                    "name": "msa2.parternersonline.com",
+                    "duration": "1m 20s"
+                }
+            ],
+            "top_applications": [
+                {
+                    "name": "Microsoft Word",
+                    "duration": "12m 1s"
+                },
+                {
+                    "name": "Adobe Acrobat",
+                    "duration": "7m 49s"
+                }
+            ]
+        },
+        {
+            "transactions": {
+                "total": 1237,
+                "per_day": 2.6
+            },
+            "aht": "28m 7s",
+            "automatability": 0.56,
+            "automatability_upper": 60,
+            "automatability_lower": 40,
+            "users": 22,
+            "process_name": "Cut report process",
+            "top_urls": [
+                {
+                    "name": "vendorcentral.com",
+                    "duration": "12m 8s"
+                },
+                {
+                    "name": "msa2.parternersonline.com",
+                    "duration": "1m 20s"
+                }
+            ],
+            "top_applications": [
+                {
+                    "name": "Microsoft Word",
+                    "duration": "12m 1s"
+                },
+                {
+                    "name": "Adobe Acrobat",
+                    "duration": "7m 49s"
+                }
+            ]
+        },
+        {
+            "transactions": {
+                "total": 1237,
+                "per_day": 2.6
+            },
+            "aht": "28m 7s",
+            "automatability": 0.56,
+            "automatability_upper": 60,
+            "automatability_lower": 40,
+            "users": 22,
+            "process_name": "Cut report process",
+            "top_urls": [
+                {
+                    "name": "vendorcentral.com",
+                    "duration": "12m 8s"
+                },
+                {
+                    "name": "msa2.parternersonline.com",
+                    "duration": "1m 20s"
+                }
+            ],
+            "top_applications": [
+                {
+                    "name": "Microsoft Word",
+                    "duration": "12m 1s"
+                },
+                {
+                    "name": "Adobe Acrobat",
+                    "duration": "7m 49s"
+                }
+            ]
+        },
+        {
+            "transactions": {
+                "total": 1237,
+                "per_day": 2.6
+            },
+            "aht": "28m 7s",
+            "automatability": 0.56,
+            "automatability_upper": 60,
+            "automatability_lower": 40,
+            "users": 22,
+            "process_name": "Cut report process",
+            "top_urls": [
+                {
+                    "name": "vendorcentral.com",
+                    "duration": "12m 8s"
+                },
+                {
+                    "name": "msa2.parternersonline.com",
+                    "duration": "1m 20s"
+                }
+            ],
+            "top_applications": [
+                {
+                    "name": "Microsoft Word",
+                    "duration": "12m 1s"
+                },
+                {
+                    "name": "Adobe Acrobat",
+                    "duration": "7m 49s"
+                }
+            ]
+        },
+        {
+            "transactions": {
+                "total": 1237,
+                "per_day": 2.6
+            },
+            "aht": "28m 7s",
+            "automatability": 0.56,
+            "automatability_upper": 60,
+            "automatability_lower": 40,
+            "users": 22,
+            "process_name": "Cut report process",
+            "top_urls": [
+                {
+                    "name": "vendorcentral.com",
+                    "duration": "12m 8s"
+                },
+                {
+                    "name": "msa2.parternersonline.com",
+                    "duration": "1m 20s"
+                }
+            ],
+            "top_applications": [
+                {
+                    "name": "Microsoft Word",
+                    "duration": "12m 1s"
+                },
+                {
+                    "name": "Adobe Acrobat",
+                    "duration": "7m 49s"
+                }
+            ]
+        },
+        {
+            "transactions": {
+                "total": 1237,
+                "per_day": 2.6
+            },
+            "aht": "28m 7s",
+            "automatability": 0.56,
+            "automatability_upper": 60,
+            "automatability_lower": 40,
+            "users": 22,
+            "process_name": "Cut report process",
+            "top_urls": [
+                {
+                    "name": "vendorcentral.com",
+                    "duration": "12m 8s"
+                },
+                {
+                    "name": "msa2.parternersonline.com",
+                    "duration": "1m 20s"
+                }
+            ],
+            "top_applications": [
+                {
+                    "name": "Microsoft Word",
+                    "duration": "12m 1s"
+                },
+                {
+                    "name": "Adobe Acrobat",
+                    "duration": "7m 49s"
+                }
+            ]
+        },
+        {
+            "transactions": {
+                "total": 1237,
+                "per_day": 2.6
+            },
+            "aht": "28m 7s",
+            "automatability": 0.56,
+            "automatability_upper": 60,
+            "automatability_lower": 40,
+            "users": 22,
+            "process_name": "Cut report process",
+            "top_urls": [
+                {
+                    "name": "vendorcentral.com",
+                    "duration": "12m 8s"
+                },
+                {
+                    "name": "msa2.parternersonline.com",
+                    "duration": "1m 20s"
+                }
+            ],
+            "top_applications": [
+                {
+                    "name": "Microsoft Word",
+                    "duration": "12m 1s"
+                },
+                {
+                    "name": "Adobe Acrobat",
+                    "duration": "7m 49s"
+                }
+            ]
+        },
+        {
+            "transactions": {
+                "total": 1237,
+                "per_day": 2.6
+            },
+            "aht": "28m 7s",
+            "automatability": 0.56,
+            "automatability_upper": 60,
+            "automatability_lower": 40,
+            "users": 22,
+            "process_name": "Cut report process",
+            "top_urls": [
+                {
+                    "name": "vendorcentral.com",
+                    "duration": "12m 8s"
+                },
+                {
+                    "name": "msa2.parternersonline.com",
+                    "duration": "1m 20s"
+                }
+            ],
+            "top_applications": [
+                {
+                    "name": "Microsoft Word",
+                    "duration": "12m 1s"
+                },
+                {
+                    "name": "Adobe Acrobat",
+                    "duration": "7m 49s"
+                }
+            ]
+        },
+        {
+            "transactions": {
+                "total": 1237,
+                "per_day": 2.6
+            },
+            "aht": "28m 7s",
+            "automatability": 0.56,
+            "automatability_upper": 60,
+            "automatability_lower": 40,
+            "users": 22,
+            "process_name": "Cut report process",
+            "top_urls": [
+                {
+                    "name": "vendorcentral.com",
+                    "duration": "12m 8s"
+                },
+                {
+                    "name": "msa2.parternersonline.com",
+                    "duration": "1m 20s"
+                }
+            ],
+            "top_applications": [
+                {
+                    "name": "Microsoft Word",
+                    "duration": "12m 1s"
+                },
+                {
+                    "name": "Adobe Acrobat",
+                    "duration": "7m 49s"
+                }
+            ]
+        },
+        {
+            "transactions": {
+                "total": 1237,
+                "per_day": 2.6
+            },
+            "aht": "28m 7s",
+            "automatability": 0.56,
+            "automatability_upper": 60,
+            "automatability_lower": 40,
+            "users": 22,
+            "process_name": "Cut report process",
+            "top_urls": [
+                {
+                    "name": "vendorcentral.com",
+                    "duration": "12m 8s"
+                },
+                {
+                    "name": "msa2.parternersonline.com",
+                    "duration": "1m 20s"
+                }
+            ],
+            "top_applications": [
+                {
+                    "name": "Microsoft Word",
+                    "duration": "12m 1s"
+                },
+                {
+                    "name": "Adobe Acrobat",
+                    "duration": "7m 49s"
+                }
+            ]
+        },
+        {
+            "transactions": {
+                "total": 1237,
+                "per_day": 2.6
+            },
+            "aht": "28m 7s",
+            "automatability": 0.56,
+            "automatability_upper": 60,
+            "automatability_lower": 40,
+            "users": 22,
+            "process_name": "Cut report process",
+            "top_urls": [
+                {
+                    "name": "vendorcentral.com",
+                    "duration": "12m 8s"
+                },
+                {
+                    "name": "msa2.parternersonline.com",
+                    "duration": "1m 20s"
+                }
+            ],
+            "top_applications": [
+                {
+                    "name": "Microsoft Word",
+                    "duration": "12m 1s"
+                },
+                {
+                    "name": "Adobe Acrobat",
+                    "duration": "7m 49s"
+                }
+            ]
+        },
+        {
+            "transactions": {
+                "total": 1237,
+                "per_day": 2.6
+            },
+            "aht": "28m 7s",
+            "automatability": 0.56,
+            "automatability_upper": 60,
+            "automatability_lower": 40,
+            "users": 22,
+            "process_name": "Cut report process",
+            "top_urls": [
+                {
+                    "name": "vendorcentral.com",
+                    "duration": "12m 8s"
+                },
+                {
+                    "name": "msa2.parternersonline.com",
+                    "duration": "1m 20s"
+                }
+            ],
+            "top_applications": [
+                {
+                    "name": "Microsoft Word",
+                    "duration": "12m 1s"
+                },
+                {
+                    "name": "Adobe Acrobat",
+                    "duration": "7m 49s"
+                }
+            ]
+        },
+        {
+            "transactions": {
+                "total": 1237,
+                "per_day": 2.6
+            },
+            "aht": "28m 7s",
+            "automatability": 0.56,
+            "automatability_upper": 60,
+            "automatability_lower": 40,
+            "users": 22,
+            "process_name": "Cut report process",
+            "top_urls": [
+                {
+                    "name": "vendorcentral.com",
+                    "duration": "12m 8s"
+                },
+                {
+                    "name": "msa2.parternersonline.com",
+                    "duration": "1m 20s"
+                }
+            ],
+            "top_applications": [
+                {
+                    "name": "Microsoft Word",
+                    "duration": "12m 1s"
+                },
+                {
+                    "name": "Adobe Acrobat",
+                    "duration": "7m 49s"
+                }
+            ]
+        },
+        {
+            "transactions": {
+                "total": 1237,
+                "per_day": 2.6
+            },
+            "aht": "28m 7s",
+            "automatability": 0.56,
+            "automatability_upper": 60,
+            "automatability_lower": 40,
+            "users": 22,
+            "process_name": "Cut report process",
+            "top_urls": [
+                {
+                    "name": "vendorcentral.com",
+                    "duration": "12m 8s"
+                },
+                {
+                    "name": "msa2.parternersonline.com",
+                    "duration": "1m 20s"
+                }
+            ],
+            "top_applications": [
+                {
+                    "name": "Microsoft Word",
+                    "duration": "12m 1s"
+                },
+                {
+                    "name": "Adobe Acrobat",
+                    "duration": "7m 49s"
+                }
+            ]
+        },
+        {
+            "transactions": {
+                "total": 1237,
+                "per_day": 2.6
+            },
+            "aht": "28m 7s",
+            "automatability": 0.56,
+            "automatability_upper": 60,
+            "automatability_lower": 40,
+            "users": 22,
+            "process_name": "Cut report process",
+            "top_urls": [
+                {
+                    "name": "vendorcentral.com",
+                    "duration": "12m 8s"
+                },
+                {
+                    "name": "msa2.parternersonline.com",
+                    "duration": "1m 20s"
+                }
+            ],
+            "top_applications": [
+                {
+                    "name": "Microsoft Word",
+                    "duration": "12m 1s"
+                },
+                {
+                    "name": "Adobe Acrobat",
+                    "duration": "7m 49s"
+                }
+            ]
+        },
+        {
+            "transactions": {
+                "total": 1237,
+                "per_day": 2.6
+            },
+            "aht": "28m 7s",
+            "automatability": 0.56,
+            "automatability_upper": 60,
+            "automatability_lower": 40,
+            "users": 22,
+            "process_name": "Cut report process",
+            "top_urls": [
+                {
+                    "name": "vendorcentral.com",
+                    "duration": "12m 8s"
+                },
+                {
+                    "name": "msa2.parternersonline.com",
+                    "duration": "1m 20s"
+                }
+            ],
+            "top_applications": [
+                {
+                    "name": "Microsoft Word",
+                    "duration": "12m 1s"
+                },
+                {
+                    "name": "Adobe Acrobat",
+                    "duration": "7m 49s"
+                }
+            ]
+        },
+        {
+            "transactions": {
+                "total": 1237,
+                "per_day": 2.6
+            },
+            "aht": "28m 7s",
+            "automatability": 0.56,
+            "automatability_upper": 60,
+            "automatability_lower": 40,
+            "users": 22,
+            "process_name": "Cut report process",
+            "top_urls": [
+                {
+                    "name": "vendorcentral.com",
+                    "duration": "12m 8s"
+                },
+                {
+                    "name": "msa2.parternersonline.com",
+                    "duration": "1m 20s"
+                }
+            ],
+            "top_applications": [
+                {
+                    "name": "Microsoft Word",
+                    "duration": "12m 1s"
+                },
+                {
+                    "name": "Adobe Acrobat",
+                    "duration": "7m 49s"
+                }
+            ]
+        },
+        {
+            "transactions": {
+                "total": 1237,
+                "per_day": 2.6
+            },
+            "aht": "28m 7s",
+            "automatability": 0.56,
+            "automatability_upper": 60,
+            "automatability_lower": 40,
+            "users": 22,
+            "process_name": "Cut report process",
+            "top_urls": [
+                {
+                    "name": "vendorcentral.com",
+                    "duration": "12m 8s"
+                },
+                {
+                    "name": "msa2.parternersonline.com",
+                    "duration": "1m 20s"
+                }
+            ],
+            "top_applications": [
+                {
+                    "name": "Microsoft Word",
+                    "duration": "12m 1s"
+                },
+                {
+                    "name": "Adobe Acrobat",
+                    "duration": "7m 49s"
+                }
+            ]
+        },
+        {
+            "transactions": {
+                "total": 1237,
+                "per_day": 2.6
+            },
+            "aht": "28m 7s",
+            "automatability": 0.56,
+            "automatability_upper": 60,
+            "automatability_lower": 40,
+            "users": 22,
+            "process_name": "Cut report process",
+            "top_urls": [
+                {
+                    "name": "vendorcentral.com",
+                    "duration": "12m 8s"
+                },
+                {
+                    "name": "msa2.parternersonline.com",
+                    "duration": "1m 20s"
+                }
+            ],
+            "top_applications": [
+                {
+                    "name": "Microsoft Word",
+                    "duration": "12m 1s"
+                },
+                {
+                    "name": "Adobe Acrobat",
+                    "duration": "7m 49s"
+                }
+            ]
+        },
+        {
+            "transactions": {
+                "total": 1237,
+                "per_day": 2.6
+            },
+            "aht": "28m 7s",
+            "automatability": 0.56,
+            "automatability_upper": 60,
+            "automatability_lower": 40,
+            "users": 22,
+            "process_name": "Cut report process",
+            "top_urls": [
+                {
+                    "name": "vendorcentral.com",
+                    "duration": "12m 8s"
+                },
+                {
+                    "name": "msa2.parternersonline.com",
+                    "duration": "1m 20s"
+                }
+            ],
+            "top_applications": [
+                {
+                    "name": "Microsoft Word",
+                    "duration": "12m 1s"
+                },
+                {
+                    "name": "Adobe Acrobat",
+                    "duration": "7m 49s"
+                }
+            ]
+        },
+        {
+            "transactions": {
+                "total": 1237,
+                "per_day": 2.6
+            },
+            "aht": "28m 7s",
+            "automatability": 0.56,
+            "automatability_upper": 60,
+            "automatability_lower": 40,
+            "users": 22,
+            "process_name": "Cut report process",
+            "top_urls": [
+                {
+                    "name": "vendorcentral.com",
+                    "duration": "12m 8s"
+                },
+                {
+                    "name": "msa2.parternersonline.com",
+                    "duration": "1m 20s"
+                }
+            ],
+            "top_applications": [
+                {
+                    "name": "Microsoft Word",
+                    "duration": "12m 1s"
+                },
+                {
+                    "name": "Adobe Acrobat",
+                    "duration": "7m 49s"
+                }
+            ]
+        },
+        {
+            "transactions": {
+                "total": 1237,
+                "per_day": 2.6
+            },
+            "aht": "28m 7s",
+            "automatability": 0.56,
+            "automatability_upper": 60,
+            "automatability_lower": 40,
+            "users": 22,
+            "process_name": "Cut report process",
+            "top_urls": [
+                {
+                    "name": "vendorcentral.com",
+                    "duration": "12m 8s"
+                },
+                {
+                    "name": "msa2.parternersonline.com",
+                    "duration": "1m 20s"
+                }
+            ],
+            "top_applications": [
+                {
+                    "name": "Microsoft Word",
+                    "duration": "12m 1s"
+                },
+                {
+                    "name": "Adobe Acrobat",
+                    "duration": "7m 49s"
+                }
+            ]
+        },
+        {
+            "transactions": {
+                "total": 1237,
+                "per_day": 2.6
+            },
+            "aht": "28m 7s",
+            "automatability": 0.56,
+            "automatability_upper": 60,
+            "automatability_lower": 40,
+            "users": 22,
+            "process_name": "Cut report process",
+            "top_urls": [
+                {
+                    "name": "vendorcentral.com",
+                    "duration": "12m 8s"
+                },
+                {
+                    "name": "msa2.parternersonline.com",
+                    "duration": "1m 20s"
+                }
+            ],
+            "top_applications": [
+                {
+                    "name": "Microsoft Word",
+                    "duration": "12m 1s"
+                },
+                {
+                    "name": "Adobe Acrobat",
+                    "duration": "7m 49s"
+                }
+            ]
+        },
+        {
+            "transactions": {
+                "total": 1237,
+                "per_day": 2.6
+            },
+            "aht": "28m 7s",
+            "automatability": 0.56,
+            "automatability_upper": 60,
+            "automatability_lower": 40,
+            "users": 22,
+            "process_name": "Cut report process",
+            "top_urls": [
+                {
+                    "name": "vendorcentral.com",
+                    "duration": "12m 8s"
+                },
+                {
+                    "name": "msa2.parternersonline.com",
+                    "duration": "1m 20s"
+                }
+            ],
+            "top_applications": [
+                {
+                    "name": "Microsoft Word",
+                    "duration": "12m 1s"
+                },
+                {
+                    "name": "Adobe Acrobat",
+                    "duration": "7m 49s"
+                }
+            ]
+        },
+        {
+            "transactions": {
+                "total": 1237,
+                "per_day": 2.6
+            },
+            "aht": "28m 7s",
+            "automatability": 0.56,
+            "automatability_upper": 60,
+            "automatability_lower": 40,
+            "users": 22,
+            "process_name": "Cut report process",
+            "top_urls": [
+                {
+                    "name": "vendorcentral.com",
+                    "duration": "12m 8s"
+                },
+                {
+                    "name": "msa2.parternersonline.com",
+                    "duration": "1m 20s"
+                }
+            ],
+            "top_applications": [
+                {
+                    "name": "Microsoft Word",
+                    "duration": "12m 1s"
+                },
+                {
+                    "name": "Adobe Acrobat",
+                    "duration": "7m 49s"
+                }
+            ]
+        },
+        {
+            "transactions": {
+                "total": 1237,
+                "per_day": 2.6
+            },
+            "aht": "28m 7s",
+            "automatability": 0.56,
+            "automatability_upper": 60,
+            "automatability_lower": 40,
+            "users": 22,
+            "process_name": "Cut report process",
+            "top_urls": [
+                {
+                    "name": "vendorcentral.com",
+                    "duration": "12m 8s"
+                },
+                {
+                    "name": "msa2.parternersonline.com",
+                    "duration": "1m 20s"
+                }
+            ],
+            "top_applications": [
+                {
+                    "name": "Microsoft Word",
+                    "duration": "12m 1s"
+                },
+                {
+                    "name": "Adobe Acrobat",
+                    "duration": "7m 49s"
+                }
+            ]
+        },
+        {
+            "transactions": {
+                "total": 1237,
+                "per_day": 2.6
+            },
+            "aht": "28m 7s",
+            "automatability": 0.56,
+            "automatability_upper": 60,
+            "automatability_lower": 40,
+            "users": 22,
+            "process_name": "Cut report process",
+            "top_urls": [
+                {
+                    "name": "vendorcentral.com",
+                    "duration": "12m 8s"
+                },
+                {
+                    "name": "msa2.parternersonline.com",
+                    "duration": "1m 20s"
+                }
+            ],
+            "top_applications": [
+                {
+                    "name": "Microsoft Word",
+                    "duration": "12m 1s"
+                },
+                {
+                    "name": "Adobe Acrobat",
+                    "duration": "7m 49s"
+                }
+            ]
+        },
+        {
+            "transactions": {
+                "total": 1237,
+                "per_day": 2.6
+            },
+            "aht": "28m 7s",
+            "automatability": 0.56,
+            "automatability_upper": 60,
+            "automatability_lower": 40,
+            "users": 22,
+            "process_name": "Cut report process",
+            "top_urls": [
+                {
+                    "name": "vendorcentral.com",
+                    "duration": "12m 8s"
+                },
+                {
+                    "name": "msa2.parternersonline.com",
+                    "duration": "1m 20s"
+                }
+            ],
+            "top_applications": [
+                {
+                    "name": "Microsoft Word",
+                    "duration": "12m 1s"
+                },
+                {
+                    "name": "Adobe Acrobat",
+                    "duration": "7m 49s"
+                }
+            ]
+        },
+        {
+            "transactions": {
+                "total": 1237,
+                "per_day": 2.6
+            },
+            "aht": "28m 7s",
+            "automatability": 0.56,
+            "automatability_upper": 60,
+            "automatability_lower": 40,
+            "users": 22,
+            "process_name": "Cut report process",
+            "top_urls": [
+                {
+                    "name": "vendorcentral.com",
+                    "duration": "12m 8s"
+                },
+                {
+                    "name": "msa2.parternersonline.com",
+                    "duration": "1m 20s"
+                }
+            ],
+            "top_applications": [
+                {
+                    "name": "Microsoft Word",
+                    "duration": "12m 1s"
+                },
+                {
+                    "name": "Adobe Acrobat",
+                    "duration": "7m 49s"
+                }
+            ]
+        },
+        {
+            "transactions": {
+                "total": 1237,
+                "per_day": 2.6
+            },
+            "aht": "28m 7s",
+            "automatability": 0.56,
+            "automatability_upper": 60,
+            "automatability_lower": 40,
+            "users": 22,
+            "process_name": "Cut report process",
+            "top_urls": [
+                {
+                    "name": "vendorcentral.com",
+                    "duration": "12m 8s"
+                },
+                {
+                    "name": "msa2.parternersonline.com",
+                    "duration": "1m 20s"
+                }
+            ],
+            "top_applications": [
+                {
+                    "name": "Microsoft Word",
+                    "duration": "12m 1s"
+                },
+                {
+                    "name": "Adobe Acrobat",
+                    "duration": "7m 49s"
+                }
+            ]
+        },
+        {
+            "transactions": {
+                "total": 1237,
+                "per_day": 2.6
+            },
+            "aht": "28m 7s",
+            "automatability": 0.56,
+            "automatability_upper": 60,
+            "automatability_lower": 40,
+            "users": 22,
+            "process_name": "Cut report process",
+            "top_urls": [
+                {
+                    "name": "vendorcentral.com",
+                    "duration": "12m 8s"
+                },
+                {
+                    "name": "msa2.parternersonline.com",
+                    "duration": "1m 20s"
+                }
+            ],
+            "top_applications": [
+                {
+                    "name": "Microsoft Word",
+                    "duration": "12m 1s"
+                },
+                {
+                    "name": "Adobe Acrobat",
+                    "duration": "7m 49s"
+                }
+            ]
+        },
+        {
+            "transactions": {
+                "total": 1237,
+                "per_day": 2.6
+            },
+            "aht": "28m 7s",
+            "automatability": 0.56,
+            "automatability_upper": 60,
+            "automatability_lower": 40,
+            "users": 22,
+            "process_name": "Cut report process",
+            "top_urls": [
+                {
+                    "name": "vendorcentral.com",
+                    "duration": "12m 8s"
+                },
+                {
+                    "name": "msa2.parternersonline.com",
+                    "duration": "1m 20s"
+                }
+            ],
+            "top_applications": [
+                {
+                    "name": "Microsoft Word",
+                    "duration": "12m 1s"
+                },
+                {
+                    "name": "Adobe Acrobat",
+                    "duration": "7m 49s"
+                }
+            ]
+        },
+        {
+            "transactions": {
+                "total": 1237,
+                "per_day": 2.6
+            },
+            "aht": "28m 7s",
+            "automatability": 0.56,
+            "automatability_upper": 60,
+            "automatability_lower": 40,
+            "users": 22,
+            "process_name": "Cut report process",
+            "top_urls": [
+                {
+                    "name": "vendorcentral.com",
+                    "duration": "12m 8s"
+                },
+                {
+                    "name": "msa2.parternersonline.com",
+                    "duration": "1m 20s"
+                }
+            ],
+            "top_applications": [
+                {
+                    "name": "Microsoft Word",
+                    "duration": "12m 1s"
+                },
+                {
+                    "name": "Adobe Acrobat",
+                    "duration": "7m 49s"
+                }
+            ]
+        },
+        {
+            "transactions": {
+                "total": 1237,
+                "per_day": 2.6
+            },
+            "aht": "28m 7s",
+            "automatability": 0.56,
+            "automatability_upper": 60,
+            "automatability_lower": 40,
+            "users": 22,
+            "process_name": "Cut report process",
+            "top_urls": [
+                {
+                    "name": "vendorcentral.com",
+                    "duration": "12m 8s"
+                },
+                {
+                    "name": "msa2.parternersonline.com",
+                    "duration": "1m 20s"
+                }
+            ],
+            "top_applications": [
+                {
+                    "name": "Microsoft Word",
+                    "duration": "12m 1s"
+                },
+                {
+                    "name": "Adobe Acrobat",
+                    "duration": "7m 49s"
+                }
+            ]
+        },
+        {
+            "transactions": {
+                "total": 1237,
+                "per_day": 2.6
+            },
+            "aht": "28m 7s",
+            "automatability": 0.56,
+            "automatability_upper": 60,
+            "automatability_lower": 40,
+            "users": 22,
+            "process_name": "Cut report process",
+            "top_urls": [
+                {
+                    "name": "vendorcentral.com",
+                    "duration": "12m 8s"
+                },
+                {
+                    "name": "msa2.parternersonline.com",
+                    "duration": "1m 20s"
+                }
+            ],
+            "top_applications": [
+                {
+                    "name": "Microsoft Word",
+                    "duration": "12m 1s"
+                },
+                {
+                    "name": "Adobe Acrobat",
+                    "duration": "7m 49s"
+                }
+            ]
+        },
+        {
+            "transactions": {
+                "total": 1237,
+                "per_day": 2.6
+            },
+            "aht": "28m 7s",
+            "automatability": 0.56,
+            "automatability_upper": 60,
+            "automatability_lower": 40,
+            "users": 22,
+            "process_name": "Cut report process",
+            "top_urls": [
+                {
+                    "name": "vendorcentral.com",
+                    "duration": "12m 8s"
+                },
+                {
+                    "name": "msa2.parternersonline.com",
+                    "duration": "1m 20s"
+                }
+            ],
+            "top_applications": [
+                {
+                    "name": "Microsoft Word",
+                    "duration": "12m 1s"
+                },
+                {
+                    "name": "Adobe Acrobat",
+                    "duration": "7m 49s"
+                }
+            ]
+        },
+        {
+            "transactions": {
+                "total": 1237,
+                "per_day": 2.6
+            },
+            "aht": "28m 7s",
+            "automatability": 0.56,
+            "automatability_upper": 60,
+            "automatability_lower": 40,
+            "users": 22,
+            "process_name": "Cut report process",
+            "top_urls": [
+                {
+                    "name": "vendorcentral.com",
+                    "duration": "12m 8s"
+                },
+                {
+                    "name": "msa2.parternersonline.com",
+                    "duration": "1m 20s"
+                }
+            ],
+            "top_applications": [
+                {
+                    "name": "Microsoft Word",
+                    "duration": "12m 1s"
+                },
+                {
+                    "name": "Adobe Acrobat",
+                    "duration": "7m 49s"
+                }
+            ]
+        },
+        {
+            "transactions": {
+                "total": 1237,
+                "per_day": 2.6
+            },
+            "aht": "28m 7s",
+            "automatability": 0.56,
+            "automatability_upper": 60,
+            "automatability_lower": 40,
+            "users": 22,
+            "process_name": "Cut report process",
+            "top_urls": [
+                {
+                    "name": "vendorcentral.com",
+                    "duration": "12m 8s"
+                },
+                {
+                    "name": "msa2.parternersonline.com",
+                    "duration": "1m 20s"
+                }
+            ],
+            "top_applications": [
+                {
+                    "name": "Microsoft Word",
+                    "duration": "12m 1s"
+                },
+                {
+                    "name": "Adobe Acrobat",
+                    "duration": "7m 49s"
+                }
+            ]
+        },
+        {
+            "transactions": {
+                "total": 1237,
+                "per_day": 2.6
+            },
+            "aht": "28m 7s",
+            "automatability": 0.56,
+            "automatability_upper": 60,
+            "automatability_lower": 40,
+            "users": 22,
+            "process_name": "Cut report process",
+            "top_urls": [
+                {
+                    "name": "vendorcentral.com",
+                    "duration": "12m 8s"
+                },
+                {
+                    "name": "msa2.parternersonline.com",
+                    "duration": "1m 20s"
+                }
+            ],
+            "top_applications": [
+                {
+                    "name": "Microsoft Word",
+                    "duration": "12m 1s"
+                },
+                {
+                    "name": "Adobe Acrobat",
+                    "duration": "7m 49s"
+                },
+                {
+                    "name": "Adobe Acrobat",
+                    "duration": "7m 49s"
+                }
+            ]
+        },
+        {
+            "transactions": {
+                "total": 1237,
+                "per_day": 2.6
+            },
+            "aht": "28m 7s",
+            "automatability": 0.56,
+            "automatability_upper": 60,
+            "automatability_lower": 40,
+            "users": 22,
+            "process_name": "Cut report process",
+            "top_urls": [
+                {
+                    "name": "vendorcentral.com",
+                    "duration": "12m 8s"
+                },
+                {
+                    "name": "msa2.parternersonline.com",
+                    "duration": "1m 20s"
+                }
+            ],
+            "top_applications": [
+                {
+                    "name": "Microsoft Word",
+                    "duration": "12m 1s"
+                },
+                {
+                    "name": "Adobe Acrobat",
+                    "duration": "7m 49s"
+                },
+                {
+                    "name": "Adobe Acrobat",
+                    "duration": "7m 49s"
+                }
+            ]
+        },
+        {
+            "transactions": {
+                "total": 1237,
+                "per_day": 2.6
+            },
+            "aht": "28m 7s",
+            "automatability": 0.56,
+            "automatability_upper": 60,
+            "automatability_lower": 40,
+            "users": 22,
+            "process_name": "Cut report process",
+            "top_urls": [
+                {
+                    "name": "vendorcentral.com",
+                    "duration": "12m 8s"
+                },
+                {
+                    "name": "msa2.parternersonline.com",
+                    "duration": "1m 20s"
+                }
+            ],
+            "top_applications": [
+                {
+                    "name": "Microsoft Word",
+                    "duration": "12m 1s"
+                },
+                {
+                    "name": "Adobe Acrobat",
+                    "duration": "7m 49s"
+                }
+            ]
+        },
+        {
+            "transactions": {
+                "total": 1237,
+                "per_day": 2.6
+            },
+            "aht": "28m 7s",
+            "automatability": 0.56,
+            "automatability_upper": 60,
+            "automatability_lower": 40,
+            "users": 22,
+            "process_name": "Cut report process",
+            "top_urls": [
+                {
+                    "name": "vendorcentral.com",
+                    "duration": "12m 8s"
+                },
+                {
+                    "name": "msa2.parternersonline.com",
+                    "duration": "1m 20s"
+                }
+            ],
+            "top_applications": [
+                {
+                    "name": "Microsoft Word",
+                    "duration": "12m 1s"
+                },
+                {
+                    "name": "Adobe Acrobat",
+                    "duration": "7m 49s"
+                }
+            ]
+        },
+        {
+            "transactions": {
+                "total": 1237,
+                "per_day": 2.6
+            },
+            "aht": "28m 7s",
+            "automatability": 0.56,
+            "automatability_upper": 60,
+            "automatability_lower": 40,
+            "users": 22,
+            "process_name": "Cut report process",
+            "top_urls": [
+                {
+                    "name": "vendorcentral.com",
+                    "duration": "12m 8s"
+                },
+                {
+                    "name": "msa2.parternersonline.com",
+                    "duration": "1m 20s"
+                }
+            ],
+            "top_applications": [
+                {
+                    "name": "Microsoft Word",
+                    "duration": "12m 1s"
+                },
+                {
+                    "name": "Adobe Acrobat",
+                    "duration": "7m 49s"
+                }
+            ]
+        },
+        {
+            "transactions": {
+                "total": 1237,
+                "per_day": 2.6
+            },
+            "aht": "28m 7s",
+            "automatability": 0.56,
+            "automatability_upper": 60,
+            "automatability_lower": 40,
+            "users": 22,
+            "process_name": "Cut report process",
+            "top_urls": [
+                {
+                    "name": "vendorcentral.com",
+                    "duration": "12m 8s"
+                },
+                {
+                    "name": "msa2.parternersonline.com",
+                    "duration": "1m 20s"
+                }
+            ],
+            "top_applications": [
+                {
+                    "name": "Microsoft Word",
+                    "duration": "12m 1s"
+                },
+                {
+                    "name": "Adobe Acrobat",
+                    "duration": "7m 49s"
+                }
+            ]
+        },
+        {
+            "transactions": {
+                "total": 1237,
+                "per_day": 2.6
+            },
+            "aht": "28m 7s",
+            "automatability": 0.56,
+            "automatability_upper": 60,
+            "automatability_lower": 40,
+            "users": 22,
+            "process_name": "Cut report process",
+            "top_urls": [
+                {
+                    "name": "vendorcentral.com",
+                    "duration": "12m 8s"
+                },
+                {
+                    "name": "msa2.parternersonline.com",
+                    "duration": "1m 20s"
+                }
+            ],
+            "top_applications": [
+                {
+                    "name": "Microsoft Word",
+                    "duration": "12m 1s"
+                },
+                {
+                    "name": "Adobe Acrobat",
+                    "duration": "7m 49s"
+                }
+            ]
+        },
+        {
+            "transactions": {
+                "total": 1237,
+                "per_day": 2.6
+            },
+            "aht": "28m 7s",
+            "automatability": 0.56,
+            "automatability_upper": 60,
+            "automatability_lower": 40,
+            "users": 22,
+            "process_name": "Cut report process",
+            "top_urls": [
+                {
+                    "name": "vendorcentral.com",
+                    "duration": "12m 8s"
+                },
+                {
+                    "name": "msa2.parternersonline.com",
+                    "duration": "1m 20s"
+                }
+            ],
+            "top_applications": [
+                {
+                    "name": "Microsoft Word",
+                    "duration": "12m 1s"
+                },
+                {
+                    "name": "Adobe Acrobat",
+                    "duration": "7m 49s"
+                }
+            ]
+        },
+        {
+            "transactions": {
+                "total": 1237,
+                "per_day": 2.6
+            },
+            "aht": "28m 7s",
+            "automatability": 0.56,
+            "automatability_upper": 60,
+            "automatability_lower": 40,
+            "users": 22,
+            "process_name": "Cut report process",
+            "top_urls": [
+                {
+                    "name": "vendorcentral.com",
+                    "duration": "12m 8s"
+                },
+                {
+                    "name": "msa2.parternersonline.com",
+                    "duration": "1m 20s"
+                }
+            ],
+            "top_applications": [
+                {
+                    "name": "Microsoft Word",
+                    "duration": "12m 1s"
+                },
+                {
+                    "name": "Adobe Acrobat",
+                    "duration": "7m 49s"
+                }
+            ]
+        },
+        {
+            "transactions": {
+                "total": 1237,
+                "per_day": 2.6
+            },
+            "aht": "28m 7s",
+            "automatability": 0.56,
+            "automatability_upper": 60,
+            "automatability_lower": 40,
+            "users": 22,
+            "process_name": "Cut report process",
+            "top_urls": [
+                {
+                    "name": "vendorcentral.com",
+                    "duration": "12m 8s"
+                },
+                {
+                    "name": "msa2.parternersonline.com",
+                    "duration": "1m 20s"
+                }
+            ],
+            "top_applications": [
+                {
+                    "name": "Microsoft Word",
+                    "duration": "12m 1s"
+                },
+                {
+                    "name": "Adobe Acrobat",
+                    "duration": "7m 49s"
+                }
+            ]
+        },
+        {
+            "transactions": {
+                "total": 1237,
+                "per_day": 2.6
+            },
+            "aht": "28m 7s",
+            "automatability": 0.56,
+            "automatability_upper": 60,
+            "automatability_lower": 40,
+            "users": 22,
+            "process_name": "Cut report process",
+            "top_urls": [
+                {
+                    "name": "vendorcentral.com",
+                    "duration": "12m 8s"
+                },
+                {
+                    "name": "msa2.parternersonline.com",
+                    "duration": "1m 20s"
+                }
+            ],
+            "top_applications": [
+                {
+                    "name": "Microsoft Word",
+                    "duration": "12m 1s"
+                },
+                {
+                    "name": "Adobe Acrobat",
+                    "duration": "7m 49s"
+                }
+            ]
+        },
+        {
+            "transactions": {
+                "total": 1237,
+                "per_day": 2.6
+            },
+            "aht": "28m 7s",
+            "automatability": 0.56,
+            "automatability_upper": 60,
+            "automatability_lower": 40,
+            "users": 22,
+            "process_name": "Cut report process",
+            "top_urls": [
+                {
+                    "name": "vendorcentral.com",
+                    "duration": "12m 8s"
+                },
+                {
+                    "name": "msa2.parternersonline.com",
+                    "duration": "1m 20s"
+                }
+            ],
+            "top_applications": [
+                {
+                    "name": "Microsoft Word",
+                    "duration": "12m 1s"
+                },
+                {
+                    "name": "Adobe Acrobat",
+                    "duration": "7m 49s"
+                }
+            ]
+        }
+    ]
+}

@@ -26,7 +26,10 @@
               "node_modules/primeicons/primeicons.css",
               "node_modules/primeng/resources/themes/nova-light/theme.css",
               "node_modules/primeng/resources/primeng.min.css",
-              "src/styles.css"
+              "src/styles.css",
+              "src/assets/libraries/w3.css/4/w3.css",
+              "src/assets/libraries/w3.css/themes/w3-theme-accent.css",
+              "src/assets/libraries/w3.css/themes/w3-theme-primary.css"
             ],
             "scripts": []
           },

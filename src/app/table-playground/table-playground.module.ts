@@ -1,14 +1,17 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { PrimeNgTableModule } from './prime-ng-table/prime-ng-table.module';
-import { MaterialTableModule } from './material-table/material-table.module';
+import { TablePlaygroundComponent } from './table-playground.component';
+
+import { TablePlaygroundRoutingModule } from './table-playground-routing.module';
+
+import { MatButtonModule } from '@angular/material';
 
 @NgModule({
   imports: [
     CommonModule,
-    PrimeNgTableModule,
-    MaterialTableModule
+    TablePlaygroundRoutingModule,
+    MatButtonModule
   ],
-  declarations: []
+  declarations: [TablePlaygroundComponent]
 })
 export class TablePlaygroundModule { }
