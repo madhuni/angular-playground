@@ -1,0 +1,14 @@
+<div class="w3-padding-16">
+  <h3>Playing with Angular Pipes to transform data.</h3>
+  <p><b>Goal: </b>In the below example we will create two pipes, <b>Sort</b> and <b>Reverse</b> pipe which will sort the given list and reverse the string respectively.</p>
+  <hr>
+  <button (click)="onSortList()">Sort list</button>
+  <ul>
+    <li *ngFor="let item of (list | sort:sortType:sortKey); let i=index;">
+      <span style="margin-right: 10px;">{{ item.name | uppercase}},</span>
+      <span style="margin-right: 10px;">{{ item.age }},</span>
+      <span style="margin-right: 10px;">{{ item.role }},</span>
+      <span style="margin-right: 10px;">{{ item.company | reverse}}</span>
+    </li>
+  </ul>
+</div>
