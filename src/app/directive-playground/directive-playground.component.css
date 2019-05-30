@@ -1,0 +1,19 @@
+.directive-plaground {
+  position: relative;
+}
+
+.custom-tool-tip {
+  position: absolute;
+  top: 20px;
+  left: 0;
+  /* left: 50%; */
+  /* transform: translateX(-50%); */
+  opacity: 1;
+  min-width: 100px;
+  text-align: center;
+  z-index: 20;
+  border: 1px solid gray;
+  padding: 2px;
+  background: white;
+  box-shadow: 0 1px 1px gray;
+}

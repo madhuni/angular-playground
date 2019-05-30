@@ -1,0 +1,37 @@
+<div class="w3-padding-16 directive-playground">
+  <h3>Playing with custom directives in Angular</h3>
+  <p><b>Goal:</b> We will turncate the text larger than specified length using <b>Angular Pipes</b> and will show the custom Tool-tip using <b>Angular Custom Directives</b>.</p>
+  <hr>
+  
+  <h4>List of the users:</h4>
+  <ul>
+    <li *ngFor="let item of list; let i=index;">
+      <span
+        style="margin-right: 10px; position: relative;"
+        appTextToolTip
+        [completeText]="item.name"
+        [textLimit]="10"
+      >{{ item.name | uppercase | shortText:10 }},</span>
+      <span style="margin-right: 10px;">{{ item.age }},</span>
+      <span
+        style="margin-right: 10px; position: relative;"
+        appTextToolTip
+        [completeText]="item.role"
+        [textLimit]="25"
+      >{{ item.role | shortText:25 }},</span>
+      <span style="margin-right: 10px;">{{ item.company }}</span>
+    </li>
+  </ul>
+
+  <h3>Making a Debounce directive for an autocomplete input box</h3>
+  <p><b>Goal:</b> We will create a generic Debounce directive and will use that on an input field.</p>
+  <hr>
+  <input
+    type="text"
+    placeholder="type any search query..."
+    appDebounce
+    [delay]="200"
+    (emitSearchQuery)="onSearch($event)"
+  >
+  <p>Input query is: <b>{{ searchQuery }}</b></p>
+</div>
