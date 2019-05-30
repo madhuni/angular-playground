@@ -4,9 +4,14 @@
   <table class="w3-table w3-bordered w3-white w3-round-large">
     <thead>
       <tr>
-        <th *ngFor="let col of cols | tableheaders" [attr.colspan]="col.type == 'supercolumn' ? col.no_of_subcols : 1"
-          [attr.rowspan]="col.type == 'supercolumn' ? 1 : 2" (click)="sortData(col)"
-          [ngClass]="{'sortable-header': col.sortable}" class="w3-center header">
+        <th
+          *ngFor="let col of cols | tableheaders"
+          [attr.colspan]="col.type == 'supercolumn' ? col.no_of_subcols : 1"
+          [attr.rowspan]="col.type == 'supercolumn' ? 1 : 2"
+          (click)="sortData(col)"
+          [ngClass]="{'sortable-header': col.sortable}"
+          class="w3-center header"
+        >
           {{col.header}} &nbsp;
           <fa-icon [icon]="['fas', 'sort']" class="w3-text-grey" *ngIf="col.sortable && col.sortmode == null"></fa-icon>
           <fa-icon [icon]="['fas', 'sort-up']" class="w3-text-grey" *ngIf="col.sortable && col.sortmode == 'asc'">

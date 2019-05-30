@@ -12,6 +12,14 @@ const routes: Routes = [
     path: 'table',
     loadChildren: './table-playground/table-playground.module#TablePlaygroundModule'
   },
+  {
+    path: 'angular-pipe',
+    loadChildren: './pipe-playground/pipe-playground.module#PipePlaygroundModule'
+  },
+  {
+    path: 'custom-directives',
+    loadChildren: './directive-playground/directive-playground.module#DirectivePlaygroundModule'
+  }
 ];
 
 @NgModule({

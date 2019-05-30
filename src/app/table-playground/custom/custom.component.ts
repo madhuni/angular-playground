@@ -110,7 +110,7 @@ export class CustomComponent implements OnInit {
   sortData(col: any) {
     if (col.sortable) {
       for (let column of this.cols) {
-        if (column != col)
+        if (column != col && column.sortable)
           column.sortmode = null;
       }
       if (col.sortmode == 'asc') {
