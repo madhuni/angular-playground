@@ -16,4 +16,5 @@
   padding: 2px;
   background: white;
   box-shadow: 0 1px 1px gray;
+  white-space: nowrap;
 }
